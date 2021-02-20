@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60e56a992ec188f41b60f3eb7e7490e3, type: 3}
+  m_Name: Potion Object
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2925243677531614008, guid: e1e349cc783722d4398d2ec7d8b9c04b, type: 3}
+  type: 0
+  description: Helath potion
+  restoreHealthValue: 13

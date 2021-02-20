@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 7357c28ef3df7354b98d56968b79376e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6768575149739742725
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_0
+  - first:
+      213: -5545404574255155462
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_1
+  - first:
+      213: -2562110531637818660
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_2
+  - first:
+      213: -6164165258985322941
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_3
+  - first:
+      213: -9023326816157783420
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_4
+  - first:
+      213: 4180512987253120940
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_5
+  - first:
+      213: 4131727320766303264
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_6
+  - first:
+      213: -1297729130900859834
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_7
+  - first:
+      213: 2574681312494035550
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_8
+  - first:
+      213: -1460284689744557754
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_9
+  - first:
+      213: 928936510431463637
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_10
+  - first:
+      213: -9109138158068099325
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_11
+  - first:
+      213: -1973676869880299908
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_12
+  - first:
+      213: -8741653851880766930
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_13
+  - first:
+      213: 5766680856413629337
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_14
+  - first:
+      213: -6246509680802649284
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_15
+  - first:
+      213: -729665355436406957
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_16
+  - first:
+      213: 5130383462891682869
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_17
+  - first:
+      213: -1638596914952936416
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_18
+  - first:
+      213: -981156648855040581
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_19
+  - first:
+      213: -1082407517760893178
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_20
+  - first:
+      213: 2288081120848907975
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_21
+  - first:
+      213: 3466325536041172107
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_22
+  - first:
+      213: 8415745275919630508
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_23
+  - first:
+      213: 4512978257041395905
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_24
+  - first:
+      213: 6161125226656518949
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_25
+  - first:
+      213: 7526829080889232132
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_26
+  - first:
+      213: -5442834655921520890
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_27
+  - first:
+      213: 5246863941454492382
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_28
+  - first:
+      213: -2128069456274972719
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_29
+  - first:
+      213: -9044716505272591209
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_30
+  - first:
+      213: 5528858720795567647
+    second: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 800
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9e93443c03112a0800000000000000
+      internalID: -6768575149739742725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 672
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6f1b7abe3ca03b0800000000000000
+      internalID: -5545404574255155462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 773
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdac07ecb0e817cd0800000000000000
+      internalID: -2562110531637818660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_3
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 794
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34640692b5c747aa0800000000000000
+      internalID: -6164165258985322941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 670
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aa8ae7114b6c280800000000000000
+      internalID: -9023326816157783420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 679
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1120a96a240a30800000000000000
+      internalID: 4180512987253120940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 502
+        width: 284
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c4d0f7b18d65930800000000000000
+      internalID: 4131727320766303264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 583
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445af92b3a8dfde0800000000000000
+      internalID: -1297729130900859834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 413
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e522b01330b1bb320800000000000000
+      internalID: 2574681312494035550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_9
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 615
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64985d4cfc60cbbe0800000000000000
+      internalID: -1460284689744557754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 557
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d88823a5de34ec00800000000000000
+      internalID: 928936510431463637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 520
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30715668b17d59180800000000000000
+      internalID: -9109138158068099325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 479
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e316508571c94e0800000000000000
+      internalID: -1973676869880299908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_13
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 453
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22c83113286fa680800000000000000
+      internalID: -8741653851880766930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 445
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b649b8fad570050800000000000000
+      internalID: 5766680856413629337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 422
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b28bd6a80ff49a0800000000000000
+      internalID: -6246509680802649284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_16
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 408
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357cd44a935bfd5f0800000000000000
+      internalID: -729665355436406957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 426
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c723bd398c23740800000000000000
+      internalID: 5130383462891682869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 339
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024ed2a99c88249e0800000000000000
+      internalID: -1638596914952936416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 310
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd8bfbe93b3262f0800000000000000
+      internalID: -981156648855040581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 264
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f46a1f8148af0f0800000000000000
+      internalID: -1082407517760893178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_21
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 392
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce0a7918a5e0cf10800000000000000
+      internalID: 2288081120848907975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 350
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c799ba5bcda1030800000000000000
+      internalID: 3466325536041172107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 335
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca08c5b6dbbbac470800000000000000
+      internalID: 8415745275919630508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0930260d151ae30800000000000000
+      internalID: 4512978257041395905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 89
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5235f8720c6b08550800000000000000
+      internalID: 6161125226656518949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_26
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 0
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b8b739b2ba47860800000000000000
+      internalID: 7526829080889232132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_27
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 133
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fbc92c7ba2774b0800000000000000
+      internalID: -5442834655921520890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed27337a4fa90d840800000000000000
+      internalID: 5246863941454492382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df1f51ca149772e0800000000000000
+      internalID: -2128069456274972719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_30
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 12
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c5d196246ba7280800000000000000
+      internalID: -9044716505272591209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-bubbles-png-picture-soap-bubble-2737x2771_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 25
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f162752a6b37abc40800000000000000
+      internalID: 5528858720795567647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
