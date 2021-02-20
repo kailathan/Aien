@@ -8,7 +8,11 @@ Aien
 
 ## Authors
 
-Kai Li, Ryan Yan, Towa Paisley, Leon Zeng, Steven Zhou
+* Kai Li
+* Towa Paisley
+* Ryan Yan
+* Leon Zeng
+* Steven Zhou
 
 ## Version History
 
